@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+.cabeza {background-color: white;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100px;
+
+}
+.logo {background-image:url("images/1x/logo.png");
+	position: relative;
+	left: 160px;
+	top: 20px;
+	width: 100px;
+	height: 85px;
+}
+.sesiones {background-image: url("images/1x/sesiones.png");
+	position: relative;
+	left: 400px;
+	top: -30px;
+	width: 88px;
+	height: 24px;
+}
+.maquillaje {background-image: url("images/1x/maquillaje.png");
+	position: relative;
+	left: 659px;
+	top: -53px;
+	width: 111px;
+	height: 24px;
+}
+.paquetes{background-image: url("images/1x/paq.png");
+position: relative;
+	left: 930px;
+	top: -77px;
+	width: 93px;
+	height: 24px;
+
+}
+.contacto{background-image: url("images/1x/contacto.png");
+position: relative;
+	left: 1160px;
+	top: -99px;
+	width: 95px;
+	height: 24px;
+
+}
+.lupa{background-image: url("images/1x/lupa.png");
+position: relative;
+	left: 1400px;
+	top: -137px;
+	width: 47px;
+	height: 46px;
+}
+
+
+.horizontaldos{background-image: url("images/1x/horizontal 2.png");
+position: relative;
+	left: 200px;
+	top: 440px;
+	width: 1254px;
+	height: 5px;
+}
+.lado{background-image: url("images/1x/2023.png");
+	position: relative;
+	left: 50px;
+	top: -70px;
+	width: 20px;
+	height: 441px; }
+
+.estrellas{background-image: url("images/1x/estrellas.png");
+position: relative;
+	left: 100px;
+	top: -50px;
+	width: 98px;
+	height: 83px;
+}
+
+.paquetesvarios{background-image: url("images/1x/paquetesvarios.png");
+position: relative;
+	left: 250px;
+	top: -600px;
+	width: 1046px;
+	height: 458px;
+
+}

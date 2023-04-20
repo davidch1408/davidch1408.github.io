@@ -1,0 +1,162 @@
+@charset "utf-8";
+/* CSS Document */
+.cabeza {background-color: white;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100px;
+
+}
+.logo {background-image:url("images/1x/logo.png");
+	position: relative;
+	left: 160px;
+	top: 20px;
+	width: 100px;
+	height: 85px;
+}
+.sesiones {background-image: url("images/1x/sesiones.png");
+	position: relative;
+	left: 400px;
+	top: 30px;
+	width: 88px;
+	height: 24px;
+}
+.maquillaje {background-image: url("images/1x/maquillaje.png");
+	position: relative;
+	left: 659px;
+	top: 8px;
+	width: 111px;
+	height: 24px;
+}
+.paquetes{background-image: url("images/1x/paq.png");
+position: relative;
+	left: 930px;
+	top: -19px;
+	width: 93px;
+	height: 24px;
+
+}
+.contacto{background-image: url("images/1x/contacto.png");
+position: relative;
+	left: 1160px;
+	top: -46px;
+	width: 95px;
+	height: 24px;
+
+}
+.lupa{background-image: url("images/1x/lupa.png");
+position: relative;
+	left: 1360px;
+	top: -80px;
+	width: 47px;
+	height: 46px;
+}
+
+
+.horizontaldos{background-image: url("images/1x/horizontal 2.png");
+position: relative;
+	left: 200px;
+	top: 380px;
+	width: 1254px;
+	height: 5px;
+}
+.lado{background-image: url("images/1x/2023.png");
+	position: relative;
+	left: 50px;
+	top: -70px;
+	width: 20px;
+	height: 441px; }
+
+.estrellas{background-image: url("images/1x/estrellas.png");
+position: relative;
+	left: 100px;
+	top: -1250px;
+	width: 98px;
+	height: 83px;
+	
+}
+.negra{background-image: url("../pagina3/images/1x/negra .png");
+	position: relative;
+    left: 1450px;
+	top: -1230px;
+	width: 115px;
+	height: 700px;
+	
+}
+
+.vertical {background-image: url("../pagina3/images/1x/vertical.png");
+position: relative;
+    left: 550px;
+	top: -550px;
+	width: 4px;
+	height: 574px;
+
+}
+
+.horizontaldos{background-image: url("../pagina3/images/1x/horizontal 2.png");
+position: relative;
+    left: 180px;
+	top: -500px;
+	width: 1254px;
+	height: 5px;
+
+}
+
+.titulo{background-image: url("../pagina3/images/1x/titulo.png");
+position: relative;
+    left: 750px;
+	top: -1900px;
+	width: 619px;
+	height: 446px;
+
+}
+
+.acento{background-image: url("../pagina3/images/1x/acento.png");
+position: relative;
+    left: 1160px;
+	top: -2330px;
+	width: 21px;
+	height: 15px;
+
+}
+
+.agendar{background-image: url("../pagina3/images/1x/agendar.png");
+position: relative;
+    left: 600px;
+	top: -1880px;
+	width: 307px;
+	height: 85px;
+
+
+}
+
+.hola{background-image: url("../pagina3/images/1x/hola.png");
+position: relative;
+    left: 650px;
+	top: -2270px;
+	width: 312px;
+	height: 166px;
+
+}
+
+.textodos{background-image: url("../pagina3/images/1x/hola 2.png");
+position: relative;
+    left: 1050px;
+	top: -2170px;
+	width: 376px;
+	height: 102px;
+
+}
+
+.carousel{background-color: transparent;
+position: relative;
+	left: 150px;
+	top: -15px;
+	width: 374px;
+	height: 561px;
+
+
+
+}
+
